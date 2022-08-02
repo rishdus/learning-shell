@@ -1,2 +1,2 @@
 # learning-shell
-## Bash shell scripting
+## Here we learn Bash shell scripting
