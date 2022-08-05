@@ -15,3 +15,5 @@
 10. sed editor
 
 create files with .sh or .bash
+
+push check
