@@ -9,5 +9,5 @@ sample() {
 
 ## Access a function simply function name
 sample
-a=10
+ a=10
 echo b from function = $b
