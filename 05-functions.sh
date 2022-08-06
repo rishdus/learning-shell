@@ -8,6 +8,6 @@ sample() {
 }
 
 ## Access a function simply function name
+a=10
 sample
- a=10
 echo b from function = $b
