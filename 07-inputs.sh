@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## before execution
+
 echo First Argument = $1
 echo secong argument = $2
 echo All Argument = $*
